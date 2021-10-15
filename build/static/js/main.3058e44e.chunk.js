@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-website-yt-1"]=this["webpackJsonpreact-website-yt-1"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);c(1);var n=c(3),s=c.n(n),r=(c(8),c(0));var a=function(){return Object(r.jsx)("div",{className:"App",children:Object(r.jsx)("h2",{children:"Hola React"})})};s.a.render(Object(r.jsx)(a,{}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3058e44e.chunk.js.map
